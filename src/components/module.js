@@ -53,10 +53,10 @@ class Module extends Component {
             color: #fff;
             height: 100%;
             padding: 0.8rem;
-            border: 2px solid #262626;
+            border: 3px solid #262626;
 
             &.watched {
-                border: 2px solid #37bf37;
+                border: 3px solid #00cf00;
 
                 &:before {
                     content: '✅';
