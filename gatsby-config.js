@@ -20,7 +20,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `advanced-react-training`,
-        short_name: `starter`,
+        short_name: `Advanced React`,
         start_url: `/`,
         background_color: `#1abebf`,
         theme_color: `#1abebf`,
